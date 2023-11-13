@@ -1,14 +1,9 @@
 # Flutter Calculator App
-
+A simple calculator app built with Flutter.
 ## Screenshot
 
 ![image](https://github.com/akbaralinabiev/Calculator-App-in-Flutter/assets/104593036/c5a8fbf9-ad06-4260-8f98-cecd461f5938)
 
-
-
-
-
-A simple calculator app built with Flutter.
 
 ## Features
 
