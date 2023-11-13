@@ -1,9 +1,9 @@
 # Flutter Calculator App
 
-## Screenshots
+## Screenshot
 
-![Calculator App Screenshot 1](![image](https://github.com/akbaralinabiev/Calculator-App-in-Flutter/assets/104593036/5c47ca0e-b557-434d-ad36-1d38706455e7)
-)
+![Calculator App Screenshot](https://imgur.com/ov8cyW1)
+
 
 
 
